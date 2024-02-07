@@ -277,8 +277,8 @@ th {
   }
   
   .Ehorizontal-layout .logo {
-    width: 20rem;
-    height: auto;
+    width: 320px;
+    height: 321px;
     margin-bottom: 25px;
   }
   
@@ -287,7 +287,7 @@ th {
   }
 .Ecateg{
     margin-left: 10rem;
-    margin-top: -9rem;
+    margin-top: -8rem;
 }
 .Ecateg ul{
     margin-left: 2rem;
@@ -306,8 +306,8 @@ th {
 
 /* Contact css */
 .contact {
-    padding: 50px 0; /* Adjust spacing */
-    text-align: center; /* Center-align text */
+    padding: 50px 0;
+    text-align: center; 
 }
 
 .contact-text h1 {
@@ -318,34 +318,34 @@ th {
 
 .contact-form {
     max-width: 600px;
-    margin: 0 auto; /* Center the form */
+    margin: 0 auto;
 }
 
 .contact-form label {
     display: block;
-    margin-bottom: 10px; /* Adjust spacing */
+    margin-top: 1rem;
 }
 
 .contact-form input,
 .contact-form textarea {
-    width: 100%;
+    width: 50%;
     padding: 10px;
-    margin-bottom: 20px; /* Adjust spacing */
-    border: 1px solid #ccc; /* Add borders */
-    border-radius: 5px; /* Round corners */
+    margin-bottom: 1px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
 }
 
 .contact-form button {
     width: 100%;
     padding: 10px;
-    background-color: #1e1e24; /* Button background color */
-    color: #fff; /* Button text color */
+    background-color: #1e1e24; 
+    color: #fff; 
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s; /* Smooth transition */
+    transition: background-color 0.3s; 
 }
 
 .contact-form button:hover {
-    background-color: #333; /* Darken button color on hover */
+    background-color: #333; 
 }
